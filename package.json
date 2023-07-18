@@ -1,0 +1,15 @@
+{
+    "name": "aplicacao-xml-node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "Apache",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "ejs": "^3.1.9",
+        "express": "^4.18.2",
+        "jsrsasign": "^8.0.12",
+        "multer": "^1.4.5-lts.1",
+        "node-forge": "^0.9.1",
+        "request": "^2.88.0"
+    }
+}
